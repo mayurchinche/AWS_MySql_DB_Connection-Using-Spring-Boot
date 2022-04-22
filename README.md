@@ -1,2 +1,2 @@
-# AWS mysql Db Connection using Spring Boot
-Connecting to AWS RDS mysql DB using spring boot
+# CCAssignment
+Connecting to mysql DB and performing some opertaions on data and inserting that data into new table using spring boot
